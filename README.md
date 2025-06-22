@@ -1,7 +1,5 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
 ## Available Scripts
 
 In the project directory, you can run:
@@ -47,8 +45,4 @@ Visit the live site here: [Nrshopsy on Vercel](https://vercel-frontend-seven-dra
 ## 📦 Getting Started (Local Setup)
 
 To run the project locally:
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/your-username/your-repo-name.git
    
