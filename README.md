@@ -14,6 +14,9 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 🛍️ Nrshopsy
 
 **Nrshopsy** is an online clothing store frontend built using modern technologies. It allows users to browse products, add images, sell clothes, and place orders. The platform also supports user authentication (login/logout).
+## 🔗 Backend Repository
+
+➡️ [https://github.com/nikitalahane2605/vercel-backend](https://github.com/nikitalahane2605/vercel-backend)
 
 ---
 
